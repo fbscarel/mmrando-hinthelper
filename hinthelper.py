@@ -59,7 +59,15 @@ items = [
     "Sword Upgrade",
     "Mirror Shield",
     "Magic (Progressive)",
-    "Wallet (Progressive)"]
+    "Wallet (Progressive)",
+    "Song of Healing",
+    "Epona's Song",
+    "Song of Storms",
+    "Sonata of Awakening",
+    "Goron Lullaby",
+    "New Wave Bossa Nova",
+    "Elegy of Emptiness",
+    "Oath to Order"]
 
 # KEY checks
 kchecks = [
@@ -108,7 +116,15 @@ kchecks = [
     "Giant's Mask",
     "Mirror Shield",
     "Magic (Progressive)",
-    "Wallet (Progressive)"]
+    "Wallet (Progressive)",
+    "Song of Healing",
+    "Epona's Song",
+    "Song of Storms",
+    "Sonata of Awakening",
+    "Goron Lullaby",
+    "New Wave Bossa Nova",
+    "Elegy of Emptiness",
+    "Oath to Order"]
 kchecks.sort()
 
 # repeatable items
@@ -605,5 +621,5 @@ else:
 
 init()
 loadf()
-
+    
 main_loop()
