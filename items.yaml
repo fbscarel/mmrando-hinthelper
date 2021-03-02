@@ -218,3 +218,37 @@ items:
   - name: "Fierce Deity Mask"
     opens_checks: no
     is_repeatable: no
+
+# Songs
+
+  - name: "Song of Healing"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Epona's Song"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Song of Storms"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Sonata of Awakening"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Goron Lullaby"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "New Wave Bossa Nova"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Elegy of Emptiness"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Oath to Order"
+    opens_checks: yes
+    is_repeatable: no    
