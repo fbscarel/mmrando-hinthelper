@@ -1,0 +1,220 @@
+---
+# Parameter explanation:
+# opens_checks: should be "yes" if the item can open any new checks in the game, "no" otherwise
+# is_repeatable: items than can be found in more than a single check in the game, like Sword Upgrades or Progressive Bow/Bomb Bag
+
+# Repeatable items
+items:
+  - name: "Bow (Progressive)"
+    opens_checks: yes
+    is_repeatable: yes
+
+  - name: "Bomb Bag (Progressive)"
+    opens_checks: yes
+    is_repeatable: yes
+
+  - name: "Bombchus"
+    opens_checks: no
+    is_repeatable: yes
+
+  - name: "Magic Beans"
+    opens_checks: yes
+    is_repeatable: yes
+
+  - name: "Bottle"
+    opens_checks: yes
+    is_repeatable: yes
+
+  - name: "Sword Upgrade"
+    opens_checks: no
+    is_repeatable: yes
+
+  - name: "Magic (Progressive)"
+    opens_checks: yes
+    is_repeatable: yes
+
+  - name: "Wallet (Progressive)"
+    opens_checks: yes
+    is_repeatable: yes
+
+# Key non-repeatable items
+
+  - name: "Fire Arrows"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Ice Arrows"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Light Arrows"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Hookshot"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Mirror Shield"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Powder Keg"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Pictobox"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Lens of Truth"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Moon Tear"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Land Title Deed"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Swamp Title Deed"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Mountain Title Deed"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Ocean Title Deed"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Room Key"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Letter to Kafei"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Pendant of Memories"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Express Mail to Mama"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Gold Dust"
+    opens_checks: yes
+    is_repeatable: no
+
+# Miscellaneous non-key items
+
+  - name: "Chateau Romani"
+    opens_checks: no
+    is_repeatable: no
+
+  - name: "Great Fairy's Sword"
+    opens_checks: no
+    is_repeatable: no
+
+# Masks
+
+  - name: "Postman's Hat"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "All-Night Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Blast Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Stone Mask"
+    opens_checks: no
+    is_repeatable: no
+
+  - name: "Great Fairy Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Deku Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Keaton Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Bremen Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Bunny Hood"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Don Gero Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Mask of Scents"
+    opens_checks: no
+    is_repeatable: no
+
+  - name: "Goron Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Romani Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Circus Leader Mask"
+    opens_checks: no
+    is_repeatable: no
+
+  - name: "Kafei Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Couple's Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Mask of Truth"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Zora Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Kamaro Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Gibdo Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Garo Mask"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Captain's Hat"
+    opens_checks: yes
+    is_repeatable: no
+
+  - name: "Giant's Mask"
+    opens_checks: no
+    is_repeatable: no
+
+  - name: "Fierce Deity Mask"
+    opens_checks: no
+    is_repeatable: no
