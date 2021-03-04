@@ -5,11 +5,11 @@
 
 # Repeatable items
 items:
-  - name: "Bow (Progressive)"
+  - name: "Bow"
     opens_checks: yes
     is_repeatable: yes
 
-  - name: "Bomb Bag (Progressive)"
+  - name: "Bomb Bag"
     opens_checks: yes
     is_repeatable: yes
 
@@ -29,11 +29,11 @@ items:
     opens_checks: no
     is_repeatable: yes
 
-  - name: "Magic (Progressive)"
+  - name: "Magic"
     opens_checks: yes
     is_repeatable: yes
 
-  - name: "Wallet (Progressive)"
+  - name: "Wallet"
     opens_checks: yes
     is_repeatable: yes
 
